@@ -1,4 +1,4 @@
 url: "https://maxlgross414.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Max L. Gross" # the name of your site, e.g. ACME Corp.
-description: "Joint Honours Math/CS @ <a href="https://maxlgross414.github.io/">McGill University</a>"
+description: "Joint Honours Math/CS @ McGill University"

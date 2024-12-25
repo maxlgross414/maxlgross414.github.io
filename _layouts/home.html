@@ -4,11 +4,20 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h3 class="fw-bold">Research</h3>
+    <h3 class="fw-bold">About Me</h3>
     {{ content }}
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
+    <style>
+      .hover-image {
+        display: block;
+        transition: opacity 0.3s ease-in-out;
+      }
+      .hover-image:hover {
+        content: url('{{ site.github.url }}/assets/img/poster-present.jpg');
+      }
+    </style>
+    <img class="hover-image" src="{{ site.github.url }}/assets/img/mountain.jpg" alt="Home" width="100%">
   </div>
 </div>
 

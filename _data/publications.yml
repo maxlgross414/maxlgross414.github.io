@@ -1,10 +1,41 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+  - name: "PAPER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+    url: "/publications/sample-manuscript.pdf"
+  - name: "TALK: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+    url: "/publications/PresentationFixed.pdf"
+    additional_links: 
+      - text: "Eastern Canada Logic and Programming Seminar 2024"
+        url: "https://eclaps.rak.ac/eclaps24/"
+  - name : "POSTER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+    url : /publications/PQ-BELUGA FINAL POSTER w Pics.pdf
+    additional_links :
+      - text : "Undergraduate Computer Science Research Symposium"
+        url : "https://www.cs.mcgill.ca/undergrad/ucore/overview/"
+      - text : "Quantum – Science, Information, Technology, and Engineering Conference Toronto"
+        url : "https://www.qsiteconf.ca/toronto"
+  - name : "PAPER: The Poet Who Couldn’t Know It: How ChatGPT’s Imitation of Poetry Differs From the Real Thing"
+    url : "publications/The_Poet_Who_Couldn_t_Know_It (2).pdf"
+# - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
+# - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
+# - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+  - name: "PAPER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+    url: "/publications/sample-manuscript.pdf"
+  - name: "TALK: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+    url: "/publications/PresentationFixed.pdf"
+    additional_links: 
+      - text: "Eastern Canada Logic and Programming Seminar 2024"
+        url: "https://eclaps.rak.ac/eclaps24/"
+  - name : "POSTER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+    url : /publications/PQ-BELUGA FINAL POSTER w Pics.pdf
+    additional_links :
+      - text : "Undergraduate Computer Science Research Symposium"
+        url : "https://www.cs.mcgill.ca/undergrad/ucore/overview/"
+      - text : "Quantum – Science, Information, Technology, and Engineering Conference Toronto"
+        url : "https://www.qsiteconf.ca/toronto"
+  - name : "PAPER: The Poet Who Couldn’t Know It: How ChatGPT’s Imitation of Poetry Differs From the Real Thing"
+    url : "publications/The_Poet_Who_Couldn_t_Know_It (2).pdf"
+# - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
+# - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
+# - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}

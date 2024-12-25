@@ -1,7 +1,7 @@
 menu:
 - {name: 'cv', url: '../assets/ResumeMax.pdf'}
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'crosswords', url: '/people'}
+- {name: 'papers', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'contact', url: '/contact'}
 

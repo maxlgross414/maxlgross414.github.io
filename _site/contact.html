@@ -18,8 +18,8 @@
       <header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
   <div>
     <a href="/" class="d-flex align-items-center text-decoration-none">
-      <img src="../assets/logo-old.svg" alt="Max Liam Gross Logo" class="site-logo me-3" width="35" height="50" />
-      <span class="fs-4 fw-bold">Max Liam Gross</span>
+      <img src="../assets/logo-old.svg" alt="Max Liam Gross Logo" class="site-logo custom-spacing spin-effect" width="35" height="35" />
+      <span class="fs-4 fw-bold ms-2">Max Liam Gross</span> <!-- Adjusted spacing with 'ms-2' -->
     </a>
     <a href="/" class="d-flex align-items-center text-decoration-none">
       <span>Joint Honours Math/CS @ McGill University</span>
@@ -39,6 +39,22 @@
     
   </nav>
 </header>
+
+<style>
+  .spin-effect {
+    display: inline-block;
+    transition: transform 1s ease;
+    margin-right: 0.75rem; /* Slightly increased margin for spacing */
+  }
+
+  .spin-effect:hover {
+    transform: rotate(360deg); /* Spins the image around fully */
+  }
+
+  .spin-effect:active {
+    transition: none; /* Ensures the image stops where the user clicks */
+  }
+</style>
 
       
 

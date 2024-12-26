@@ -1,6 +1,6 @@
 menu:
 - {name: 'cv', url: '../assets/ResumeMax.pdf'}
-- {name: 'crosswords', url: '/people'}
+- {name: 'crosswords', url: '/crosswords'}
 - {name: 'papers', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'contact', url: '/contact'}

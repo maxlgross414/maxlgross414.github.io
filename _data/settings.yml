@@ -2,7 +2,7 @@ menu:
 - {name: 'cv', url: '/assets/ResumeMax.pdf'}
 - {name: 'crosswords', url: '/crosswords'}
 - {name: 'papers', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'links', url: '/links'}
 - {name: 'contact', url: '/contact'}
 
 people:

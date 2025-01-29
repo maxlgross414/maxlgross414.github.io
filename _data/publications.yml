@@ -1,5 +1,5 @@
 featured:
-  - name: "PAPER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+  - name: "COMP400 RESEARCHPaper: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
     url: "/publications/sample-manuscript.pdf"
   - name: "TALK: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
     url: "/publications/PresentationFixed.pdf"
@@ -13,14 +13,14 @@ featured:
         url : "https://www.cs.mcgill.ca/undergrad/ucore/overview/"
       - text : "Quantum – Science, Information, Technology, and Engineering Conference Toronto"
         url : "https://www.qsiteconf.ca/toronto"
-  - name : "PAPER: The Poet Who Couldn’t Know It: How ChatGPT’s Imitation of Poetry Differs From the Real Thing"
+  - name : "LLCU255 RESEARCH PAPER: The Poet Who Couldn’t Know It: How ChatGPT’s Imitation of Poetry Differs From the Real Thing"
     url : "publications/The_Poet_Who_Couldn_t_Know_It (2).pdf"
 # - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
 # - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
 # - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
-  - name: "PAPER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
+  - name: "COMP400 RESEARCH PAPER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
     url: "/publications/sample-manuscript.pdf"
   - name: "TALK: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
     url: "/publications/PresentationFixed.pdf"
@@ -34,7 +34,7 @@ index:
         url : "https://www.cs.mcgill.ca/undergrad/ucore/overview/"
       - text : "Quantum – Science, Information, Technology, and Engineering Conference Toronto"
         url : "https://www.qsiteconf.ca/toronto"
-  - name : "PAPER: The Poet Who Couldn’t Know It: How ChatGPT’s Imitation of Poetry Differs From the Real Thing"
+  - name : "LLCU255 RESEARCH PAPER: The Poet Who Couldn’t Know It: How ChatGPT’s Imitation of Poetry Differs From the Real Thing"
     url : "publications/The_Poet_Who_Couldn_t_Know_It (2).pdf"
 # - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
 # - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}

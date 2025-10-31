@@ -1,4 +1,6 @@
 featured:
+  - name: "COMEPLS PRESENTATION: Categorical Semantics and Adjoint Proto-Quipper"
+    url: "/publications/COMEPLS_PRES.pdf"
   - name: "COMP400 RESEARCHPaper: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
     url: "/publications/COMP400SPQ.pdf"
   - name: "TALK: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
@@ -20,6 +22,8 @@ featured:
 # - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
+  - name: "COMEPLS PRESENTATION: Categorical Semantics and Adjoint Proto-Quipper"
+    url: "/publications/COMEPLS_PRES.pdf"
   - name: "COMP400 RESEARCH PAPER: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
     url: "/publications/COMP400SPQ.pdf"
   - name: "TALK: Structural Proto-Quipper: Mechanization of a Linear Quantum Programming Language in a Structural Setting."
